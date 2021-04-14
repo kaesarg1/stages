@@ -1,0 +1,101 @@
+
+@media (min-width: 768px) {
+    header.masthead {
+      padding-top: 12rem;
+      padding-bottom: 12rem;
+    }
+    header.masthead h1 {
+      font-size: 3rem;
+    }
+  }
+  
+  .cardadmon {
+    width: 16rem;
+  }
+  
+  
+  .showcase-text {
+      padding: 3rem;
+    }
+  
+  .showcase-img {
+    min-height: 20rem;
+    background-size: cover;
+    background-image: url('../images/showcase.jpg');
+  }
+  
+  .showcase-img1 {
+    min-height: 20rem;
+    background-size: cover;
+    background-image: url('https://images.pexels.com/photos/3183183/pexels-photo-3183183.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
+  }
+  @media (min-width: 768px) {
+      .showcase-text {
+        padding: 7rem;
+    }
+  }
+  
+  .features-icons {
+    padding-top: 7rem;
+    padding-bottom: 7rem;
+  }
+  
+  .features-icons-item {
+      max-width: 20rem;
+  }
+  
+  .features-icons-icon {
+        height: 7rem;
+        font-size: 4.5rem;
+        color: royalblue;
+  }
+  
+  .features-icons-icon :hover {
+            font-size: 5rem;
+  }
+  
+  
+  .borderless{
+    border-top: 0 none;
+  }
+  
+  .footer a{
+   
+      text-decoration: none;
+      color: black;
+  }
+  
+  .footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+  }
+  
+  .logo-black {
+    width: 400px;
+    height: auto;
+  }
+  
+  .cardlong {
+    width: 20rem;
+  }
+  
+  .cardlong2 {
+    width: 50rem;
+  }
+  
+  .bold {
+    font-weight: bold;
+  }
+  
+  .list-cs {
+    width:800px;
+  }
+  
+  .card-text1 {
+    color: grey;
+  }
+  
+  

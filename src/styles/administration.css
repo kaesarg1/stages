@@ -1,0 +1,45 @@
+.Sidenav {
+    height: 446%;
+    width: 300px;
+    position: absolute;
+    top: 7;
+    left: 0;
+    padding-top: 20px;
+  
+}
+.main {
+
+    margin-left: 300px; /* Same as the width of the sidenav */
+    padding: 20px 0px;
+      
+ 
+}
+
+@media screen and (max-height: 450px) {
+    .sidenav {padding-top: 15px;}
+
+  }
+
+
+
+/* .footer1 {
+    position: sticky;
+    left: 0;
+    bottom: 50;
+    width: 100%;
+  
+  } */
+  
+  .Navalign {
+    text-align: center;
+  
+  }
+
+.notif, .logout {
+    color: #0275d8;
+}
+
+.card {
+  width: 30rem;
+}
+

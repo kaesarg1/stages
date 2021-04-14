@@ -1,0 +1,25 @@
+.car1 {
+    position: relative;
+    background-color: #343a40;
+    background: url("../images/banner1.jpg") no-repeat center center;
+    background-size: cover;
+    padding-top: 8rem;
+    padding-bottom: 8rem;
+  }
+  
+  .car2 {
+    position: relative;
+    background-color: #343a40;
+    background: url("../images/banner2.jpg") no-repeat center center;
+    background-size: cover;
+    padding-top: 8rem;
+    padding-bottom: 8rem;
+  }
+  .car3 {
+    position: relative;
+    background-color: #343a40;
+    background: url("../images/banner3.jpg") no-repeat center center;
+    background-size: cover;
+    padding-top: 8rem;
+    padding-bottom: 8rem;
+  }
